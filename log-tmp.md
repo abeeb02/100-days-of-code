@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 #### Log Template Below
-### Day 1: December 18th, Tuesday
+### Day 0: Month Date, Day
 
 **Today's Progress**: 
 
